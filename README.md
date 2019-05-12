@@ -1,0 +1,2 @@
+# ScalaDIPractice
+ScalaでDependency Injectionを試したもの
